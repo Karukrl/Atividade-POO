@@ -1,0 +1,83 @@
+
+ Questão 1: Gerador de Tabuada
+
+Explicação
+ O programa pede ao usuário para digitar um número entre 1 e 10.
+Depois, ele usa um loop para calcular e mostrar o resultado da multiplicação desse número por valores de 1 até 10.
+ Basicamente, ele "imprime" a tabuada daquele número na tela.
+
+
+_"Aqui, o programa pede o número da tabuada e, depois, faz a multiplicação desse número por todos os valores de 1 até 10, mostrando o resultado um por um."_
+
+---
+
+ Questão 2: Pares e Ímpares
+
+Explicação
+O programa pede 10 números para o usuário, um de cada vez
+Para cada número, ele verifica se é par ou ímpar. Se o número for divisível por 2, é par; se não, é ímpar.
+No final, o programa mostra quantos dos números são pares e quantos são ímpares.
+
+
+Aqui, eu peço 10 números ao usuário e verifico, um por um, se o número é par ou ímpar. No final, mostro a quantidade de números pares e ímpares.
+
+
+
+Questão 3: Verificar se o número é primo
+
+Explicação
+- O programa pede ao usuário para digitar um número.
+- Ele verifica se o número é divisível apenas por 1 e por ele mesmo. Se for, o número é primo.
+- Se o número for divisível por qualquer outro número entre 2 e ele mesmo, o programa conclui que ele não é primo.
+
+Aqui, o programa recebe um número e testa se ele é primo. Ele faz isso verificando se o número é divisível apenas por 1 e por ele mesmo. Se encontrar algum divisor, ele já sabe que não é primo.
+
+
+
+ Questão 4: Crescimento Populacional
+
+Explicação
+O programa compara a população de dois países, A e B.
+A população do país A cresce 3% ao ano, enquanto a de B cresce 1,5%.
+O programa calcula quantos anos levará para a população de A ultrapassar ou igualar a de B.
+
+
+Esse código calcula quanto tempo vai demorar para a população do país A, que está crescendo mais rápido, ultrapassar a população do país B. Ele faz isso simulando o crescimento de ambos ano a ano.
+
+Questão 5: Tabela de Preços de 1,99
+
+Explicação
+O programa monta uma tabela de preços para uma loja onde cada item custa R$ 1,99.
+Ele mostra o preço de 1 até 50 itens, multiplicando a quantidade de itens pelo preço unitário (R$ 1,99).
+
+Aqui o programa faz uma tabela de preços. Para cada item que a pessoa compra, ele mostra o preço total, multiplicando o número de itens pelo valor de R$ 1,99
+
+
+
+Questão 6: Aumento Salarial
+
+Explicação
+O programa calcula o salário de um funcionário de 1995 até 2025.
+O salário inicial era de R$ 1.000,00, e o aumento foi de 1,5% no primeiro ano. A partir do segundo ano, o aumento é o dobro do ano anterior.
+O código vai somando esses aumentos até chegar ao ano de 2025.
+
+Esse código calcula o salário de um funcionário desde 1995, onde ele ganhava R$ 1.000,00. A cada ano, o salário aumenta. No primeiro ano, o aumento é de 1,5%, e depois o aumento dobra a cada ano.
+
+
+
+Questão 7: Tabela de Dívida
+
+Explicação:
+O programa recebe o valor de uma dívida e monta uma tabela mostrando o valor da dívida com diferentes parcelas e juros.
+A tabela mostra a quantidade de parcelas, o valor dos juros e o valor de cada parcela.
+
+Aqui, o programa cria uma tabela para mostrar quanto a pessoa vai pagar de dívida dependendo de quantas parcelas ela escolher. Ele calcula os juros de acordo com a quantidade de parcelas.
+
+Questão 8: Verificação de Prova
+
+Explicação:
+O programa faz perguntas de uma prova e compara as respostas do aluno com o gabarito.
+Ele calcula quantas questões o aluno acertou e, após todos os alunos responderem, mostra a maior nota, a menor nota, o número total de alunos e a média da turma.
+
+
+Esse código simula uma prova. O aluno responde as questões, e o programa compara as respostas com o gabarito para calcular a nota. No final, ele também mostra a maior e a menor nota, quantos alunos fizeram a prova e a média da turma.
