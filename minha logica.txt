@@ -7,7 +7,7 @@ Depois, ele usa um loop para calcular e mostrar o resultado da multiplicação d
  Basicamente, ele "imprime" a tabuada daquele número na tela.
 
 
-_"Aqui, o programa pede o número da tabuada e, depois, faz a multiplicação desse número por todos os valores de 1 até 10, mostrando o resultado um por um."_
+Aqui, o programa pede o número da tabuada e, depois, faz a multiplicação desse número por todos os valores de 1 até 10, mostrando o resultado um por um.
 
 ---
 
