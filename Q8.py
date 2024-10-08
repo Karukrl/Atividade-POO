@@ -32,3 +32,5 @@ print("Maior acerto:", maior_acerto)
 print("Menor acerto:", menor_acerto)
 print("Total de alunos:", total_alunos)
 print("Média da turma:", media_notas)
+#Esse código simula uma prova. O aluno responde as questões, e o programa compara as respostas com o gabarito para calcular a nota. No final, ele também mostra a maior e a menor nota, quantos alunos fizeram a prova e a média da turma.
+
