@@ -8,3 +8,4 @@ while populacao_A < populacao_B:
     anos += 1
 
 print("Serão necessários", anos, "anos para a população de A ultrapassar ou igualar a de B.")
+#Esse código calcula quanto tempo vai demorar para a população do país A, que está crescendo mais rápido, ultrapassar a população do país B. Ele faz isso simulando o crescimento de ambos ano a ano.
