@@ -1,5 +1,5 @@
-#Questão 3 (1.5 pontos): Faça um programa que peça um número inteiro e determine se ele é ou não#
-#um número primo. Um número primo é aquele que é divisível somente por ele mesmo e por 1.#
+#Aqui, o programa recebe um número e testa se ele é primo. Ele faz isso verificando se o número é divisível apenas por 1 e por ele mesmo. Se encontrar algum divisor, ele já sabe que não é primo.
+
 
 numero = int(input("Digite um número: "))
 
