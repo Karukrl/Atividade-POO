@@ -1,9 +1,3 @@
-Questão 2 (1 ponto): Faça um programa que peça 10 números inteiros, calcule e mostre a
-quantidade de números pares e a quantidade de números ímpares.
-
-
-
-
 pares = 0
 impares = 0
 
@@ -16,3 +10,5 @@ for i in range(10):
 
 print("Quantidade de números pares:", pares)
 print("Quantidade de números ímpares:", impares)
+
+#Aqui, eu peço 10 números ao usuário e verifico, um por um, se o número é par ou ímpar. No final, mostro a quantidade de números pares e ímpares.
