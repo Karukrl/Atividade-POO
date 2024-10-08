@@ -2,6 +2,7 @@
  Questão 1: Gerador de Tabuada
 
 Explicação
+
  O programa pede ao usuário para digitar um número entre 1 e 10.
 Depois, ele usa um loop para calcular e mostrar o resultado da multiplicação desse número por valores de 1 até 10.
  Basicamente, ele "imprime" a tabuada daquele número na tela.
@@ -19,16 +20,14 @@ Para cada número, ele verifica se é par ou ímpar. Se o número for divisível
 No final, o programa mostra quantos dos números são pares e quantos são ímpares.
 
 
-Aqui, eu peço 10 números ao usuário e verifico, um por um, se o número é par ou ímpar. No final, mostro a quantidade de números pares e ímpares.
-
-
 
 Questão 3: Verificar se o número é primo
 
 Explicação
-- O programa pede ao usuário para digitar um número.
-- Ele verifica se o número é divisível apenas por 1 e por ele mesmo. Se for, o número é primo.
-- Se o número for divisível por qualquer outro número entre 2 e ele mesmo, o programa conclui que ele não é primo.
+
+O programa pede ao usuário para digitar um número.
+Ele verifica se o número é divisível apenas por 1 e por ele mesmo. Se for, o número é primo.
+Se o número for divisível por qualquer outro número entre 2 e ele mesmo, o programa conclui que ele não é primo.
 
 Aqui, o programa recebe um número e testa se ele é primo. Ele faz isso verificando se o número é divisível apenas por 1 e por ele mesmo. Se encontrar algum divisor, ele já sabe que não é primo.
 
